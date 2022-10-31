@@ -21,7 +21,7 @@ python ip_proxy -t 10
 
 默认爬取的网址是https://www.89ip.cn/ ，如需爬取其他网站的代理ip只需修改
 
-![image-20221031190342671](C:\Users\15501\AppData\Roaming\Typora\typora-user-images\image-20221031190342671.png)
+![image-20221031190342671](/images/image-20221031190342671.png)
 
 ![image-20221031190416909](C:\Users\15501\AppData\Roaming\Typora\typora-user-images\image-20221031190416909.png)
 
