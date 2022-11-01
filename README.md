@@ -49,4 +49,4 @@ python sub_domain.py -d wuyecao.net -t 10
 
 ![image-20221031191944340](/images/image-20221031191944340.png)
 
-后续会持续优化！！！
+仅供学习使用
